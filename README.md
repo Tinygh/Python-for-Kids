@@ -1,1 +1,1 @@
-# Python-for-Kids
+# Repository used for a course for kids based on the book Python for kids, by Jason R. Briggs
